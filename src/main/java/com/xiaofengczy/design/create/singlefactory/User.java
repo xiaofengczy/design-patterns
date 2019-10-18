@@ -1,7 +1,7 @@
 package com.xiaofengczy.design.create.singlefactory;
 
 /**
- * FileName: User Description:
+ * FileName: IUser Description:
  *
  * @author caozhongyu
  * @create 19-10-11
